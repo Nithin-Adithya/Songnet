@@ -1,0 +1,22 @@
+# Data and models
+data/
+*.npy
+*.h5
+*.tflite
+*.csv
+
+# Python environments
+.env/
+env/
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Local app config
+.env.local
+.env
+
+# MacOS / Windows
+.DS_Store
+Thumbs.db
